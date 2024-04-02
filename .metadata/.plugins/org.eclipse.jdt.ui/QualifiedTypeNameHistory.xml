@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.jws.WebService"/>
+    <fullyQualifiedTypeName name="jakarta.jws.WebMethod"/>
+    <fullyQualifiedTypeName name="jakarta.xml.ws.WebServiceRef"/>
+    <fullyQualifiedTypeName name="com.oracle.xmlns.webservices.jaxws_databinding.ObjectFactory"/>
+</qualifiedTypeNameHistroy>
