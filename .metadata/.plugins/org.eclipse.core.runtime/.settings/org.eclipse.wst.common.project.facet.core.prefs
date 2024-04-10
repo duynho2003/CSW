@@ -1,11 +1,9 @@
 eclipse.preferences.version=1
-user.presets/.usr.0/1/id=jst.web
-user.presets/.usr.0/1/version=6.0
+user.presets/.usr.0/1/id=jboss.m2
+user.presets/.usr.0/1/version=1.0
 user.presets/.usr.0/2/id=java
 user.presets/.usr.0/2/version=17
-user.presets/.usr.0/3/id=jst.jaxrs
-user.presets/.usr.0/3/version=1.1
-user.presets/.usr.0/4/id=jboss.m2
-user.presets/.usr.0/4/version=1.0
-user.presets/.usr.0/description=2
-user.presets/.usr.0/label=april 1
+user.presets/.usr.0/3/id=jst.web
+user.presets/.usr.0/3/version=6.0
+user.presets/.usr.0/description=
+user.presets/.usr.0/label=april 3

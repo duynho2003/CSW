@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="jakarta.jws.WebService"/>
-    <fullyQualifiedTypeName name="jakarta.jws.WebMethod"/>
-    <fullyQualifiedTypeName name="jakarta.xml.ws.WebServiceRef"/>
-    <fullyQualifiedTypeName name="com.oracle.xmlns.webservices.jaxws_databinding.ObjectFactory"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.PersistenceContext"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="vn.aptech.entity.Product"/>
+    <fullyQualifiedTypeName name="jakarta.websocket.server.PathParam"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.Consumes"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="org.hibernate.validator.constraints.ParameterScriptAssert"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.PathParam"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.Response"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.FormParam"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.Response.Status"/>
+    <fullyQualifiedTypeName name="com.mytech.orderservice.helper.JwTokenHelper"/>
+    <fullyQualifiedTypeName name="com.mytech.orderservice.filters.BasicSecurityConext"/>
 </qualifiedTypeNameHistroy>

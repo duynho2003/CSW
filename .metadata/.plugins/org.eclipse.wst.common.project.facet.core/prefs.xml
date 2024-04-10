@@ -1,21 +1,9 @@
 <root>
-  <facet id="jst.jaxrs">
+  <facet id="jpt.jpa">
     <node name="libprov">
       <node name="last-provider-used">
-        <attribute name="1.1" value="runtime-library-provider"/>
+        <attribute name="2.2" value="runtime-library-provider"/>
       </node>
-    </node>
-  </facet>
-  <facet id="jst.jsf">
-    <node name="libprov">
-      <node name="last-provider-used">
-        <attribute name="2.3" value="runtime-library-provider"/>
-      </node>
-    </node>
-  </facet>
-  <facet id="jpt.jaxb">
-    <node name="libprov">
-      <node name="last-provider-used"/>
     </node>
   </facet>
 </root>
