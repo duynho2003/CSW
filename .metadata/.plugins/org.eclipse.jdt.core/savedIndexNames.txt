@@ -1,4 +1,2 @@
 INDEX VERSION 1.134+D:\Aptech\CSW\.metadata\.plugins\org.eclipse.jdt.core
-2901713191.index
-3946611079.index
 1865797976.index
